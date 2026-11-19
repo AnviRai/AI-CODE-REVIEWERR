@@ -1,27 +1,3 @@
-# 🤖 AI Code Reviewer
-
-🔥 Build a complete **AI-Powered Code Reviewer** using **Python, Gemini API, Static Analysis, Radon & Streamlit** in just one project!
-
-📌 **Part of: Super Sunday Project Series** 🚀  
-* 👉 New AI/ML project every Sunday  
-* 👉 Learn by building real-world applications  
-* 👉 Beginner Friendly + Industry Level Concepts  
-
-[**Watch Full Video**][(https://youtu.be/YOUR_VIDEO_LINK)](https://youtu.be/gETjs8oWeRM?si=_vvpP_R7JLNlCr6u)
-
----
-
-# ⭐ Support & Follow
-
-If this project helps you:
-
-* ⭐ Star this repository
-* 👨‍💻 Follow me on GitHub for more AI projects
-* 📺 Subscribe to my YouTube Channel
-* 🚀 Share this project with your friends
-
----
-
 # 🎥 Project Overview
 
 An intelligent **AI Code Reviewer** built using **Python, Gemini API, Static Analysis, Radon & Streamlit**.
